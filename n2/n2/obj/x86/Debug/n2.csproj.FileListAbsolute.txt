@@ -1,0 +1,4 @@
+C:\Users\Мадияр\Documents\GitHub\task6\n2\n2\bin\Debug\n2.exe
+C:\Users\Мадияр\Documents\GitHub\task6\n2\n2\bin\Debug\n2.pdb
+C:\Users\Мадияр\Documents\GitHub\task6\n2\n2\obj\x86\Debug\n2.exe
+C:\Users\Мадияр\Documents\GitHub\task6\n2\n2\obj\x86\Debug\n2.pdb
